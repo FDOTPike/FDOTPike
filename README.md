@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building and creating innovative solutions. Welcome to my GitHub profile!
+I'm a university student studying **Electrical Engineering** with a passion for coding and building innovative solutions. I'm particularly interested in developing **multi-agent systems** to help solve complex problems like energy distribution and information management. My ultimate goal is to develop my own robot! Welcome to my GitHub profile!
 
 ## 🛠️ Technologies & Tools
 
@@ -13,15 +13,17 @@ I'm a passionate developer who loves building and creating innovative solutions.
 
 ## 🔭 What I'm Working On
 
-- Building exciting projects and learning new technologies
-- Contributing to open source
-- Improving my coding skills every day
+- Exploring multi-agent systems for energy and information distribution
+- Learning to code and develop autonomous systems
+- Building projects that combine electrical engineering and software
+- Working towards my goal of developing my own robot
 
 ## 🌱 Currently Learning
 
-- Advanced software development techniques
-- Best practices in clean code and architecture
-- New frameworks and technologies
+- Programming fundamentals and software development
+- Multi-agent systems and distributed computing
+- Robotics and autonomous systems
+- Applications of AI in energy and resource management
 
 ## 📈 GitHub Stats
 
