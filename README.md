@@ -13,6 +13,7 @@ I'm a university student studying **Electrical Engineering** with a passion for 
 
 ## 🔭 What I'm Working On
 
+- Developing my own gym training app using Visual Studio
 - Exploring multi-agent systems for energy and information distribution
 - Learning to code and develop autonomous systems
 - Building projects that combine electrical engineering and software
@@ -20,6 +21,7 @@ I'm a university student studying **Electrical Engineering** with a passion for 
 
 ## 🌱 Currently Learning
 
+- Visual Studio for app development
 - Programming fundamentals and software development
 - Multi-agent systems and distributed computing
 - Robotics and autonomous systems
